@@ -54,22 +54,25 @@
     </nav>
     <div class="container" id="accueil">
         <h1>Bienvenue dans un espace de bien-etre et d'ecoute</h1>
-        <p>Sophrologue certifiee, et je vous invite à un voyage vers un mieux-etre physique et mental. A travers des techniques de sophrologie, de relaxation, de respiration et de visualisation, je vous aide à liberer les tensions et a retrouver une harmonie interieure.
-Afin de mieux gerer votre stress et vos emotions, ameliorer votre sommeil, renforcer votre confiance en vous, vous préparer à des eevenements stressants (examens, competitions, prise de parole…) ou simplement vous offrir un moment d’apaisement et de relaxation, la sophrologie est une methode douce et accessible à tous.
-Au cours de seances, j'accompagne avec bienveillance dans un cadre propice à l’éceoute, au lâcaher-prise et à la transformation positive. J’accueille tout public avec soin et attention, pour vous aider a (re)trouver harmonie et serenite dans votre quotidien.
-N’hesitez pas à me contacter pour en savoir plus ou reserver une seance !
+        <p>Sophrologue certifiée, je vous invite à un voyage vers un mieux-être physique et mental. A travers des techniques de relaxation et de visualisation, je vous aide à liberer les tensions et à retrouver une harmonie intérieure.
+Afin de mieux gérer votre stress et vos émotions, renforcer votre confiance en vous, vous préparer à des évènements stressants ou simplement vous offrir un moment d’apaisement et de relaxation, la sophrologie est une méthode douce et accessible à tous.
+Au cours de séances, je vous accompagne avec bienveillance dans un cadre propice à l’écoute, au lâcher-prise et à la transformation positive. J’accueille tout public avec soin et attention, pour vous aider a (re)trouver harmonie et serenite dans votre quotidien.
+N’hésitez pas à me contacter pour en savoir plus ou reserver une seance !
 
 Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès maintenant !.</p>
+
+
+
 </nav>
         <img src="relaxation.jpg" alt="Image de relaxation" width="80%">
     </div>
     <div class="container" id="services">
         <h2>Mes Services</h2>
-            <p>Accompagnement energetique individuel (psychotherapie)</p>
+            <p>Accompagnement énergetique individuel (psychothérapie)</p>
             <p>Relaxation et sophrologie</p>
-            <p>Gestion des emotions et du stress</p>
-            <p>Preparation aux examens</p>
-            <p>Preparation à l’accouchement</p>
+            <p>Gestion des émotions et du stress</p>
+            <p>Préparation aux examens</p>
+            <p>Préparation à l’accouchement</p>
             <p>Troubles du sommeil</p>
         </ul>
     </div>
@@ -78,12 +81,12 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
         <p>Adresse : 21, rue des chapeliers 
         09000 Foix</p>
         <p>Telephone : 0620442734</p>
-        <p>Pour prendre rendez-vous, contactez-moi par telephone.</p>
+        <p>Pour prendre rendez-vous, contactez-moi par téléphone.</p>
     </div>
     <div class="container" id="rdv">
         <h2>Tarifs</h2>
-        <p>50 euros par seance</p>
-        <p>les 5 seances a 220 euros
+        <p>50 euros par séance</p>
+        <p>les 5 séances a 220 euros
          </div>
     <div class="container" id="avis">
         <h2>Vos Avis</h2>
