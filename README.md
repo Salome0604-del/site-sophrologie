@@ -73,18 +73,21 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
             <li>Troubles du sommeil</li>
         </ul>
     </div>
+    <div class="container" id="contact">
+        <h2>Contacts</h2>
+        <p>Adresse : 21, rue des chapeliers 
+        09000 Foix</p>
+        <p>Telephone : 0620442734</p>
+        <p>Pour prendre rendez-vous, contactez-moi par telephone.</p>
+    </div>
+    <div class="container" id="rdv">
+        <h2>Tarifs</h2>
+        <p>50 euros par seance</p>
+        <p>les 5 seances a 220 euros
+         </div>
     <div class="container" id="avis">
         <h2>Vos Avis</h2>
         <p>Decouvrez les temoignages de mes clients sur Google.</p>
-    </div>
-    <div class="container" id="contact">
-        <h2>Me Contacter</h2>
-        <p>Adresse : 21, rue des chapeliers 09000 Foix</p>
-        <p>Telephone : 0620442734</p>
-    </div>
-    <div class="container" id="rdv">
-        <h2>Prendre Rendez-Vous</h2>
-        <p>Contactez-moi par telephone.</p>
     </div>
     <footer>
         &copy; 2025 Isabelle Tessier - Sophrologue, Psychotherapie - Tous droits reserves
