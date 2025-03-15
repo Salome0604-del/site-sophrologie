@@ -58,13 +58,11 @@
 Afin de mieux gérer votre stress et vos émotions, renforcer votre confiance en vous, vous préparer à des évènements stressants ou simplement vous offrir un moment d’apaisement et de relaxation, la sophrologie est une méthode douce et accessible à tous.
 Au cours de séances, je vous accompagne avec bienveillance dans un cadre propice à l’écoute, au lâcher-prise et à la transformation positive. J’accueille tout public avec soin et attention, pour vous aider a (re)trouver harmonie et serenite dans votre quotidien.
 N’hésitez pas à me contacter pour en savoir plus ou reserver une seance !
+    </div>
 
 Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès maintenant !.</p>
-
-
-
-</nav>
         <img src="relaxation.jpg" alt="Image de relaxation" width="80%">
+    </div>
     </div>
     <div class="container" id="services">
         <h2>Mes Services</h2>
@@ -74,7 +72,6 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
             <p>Préparation aux examens</p>
             <p>Préparation à l’accouchement</p>
             <p>Troubles du sommeil</p>
-        </ul>
     </div>
     <div class="container" id="contact">
         <h2>Contacts</h2>
@@ -87,7 +84,7 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
         <h2>Tarifs</h2>
         <p>50 euros par séance</p>
         <p>les 5 séances a 220 euros
-         </div>
+    </div>
     <div class="container" id="avis">
         <h2>Vos Avis</h2>
         <p>Decouvrez les temoignages de mes clients sur Google.</p>
