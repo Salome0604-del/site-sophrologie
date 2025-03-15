@@ -92,5 +92,3 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
     <footer>
         &copy; 2025 Isabelle Tessier - Sophrologue, Psychotherapie - Tous droits reserves
     </footer>
-</body>
-</html>
