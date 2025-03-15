@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -52,6 +51,7 @@
         <a href="#contact">Contact</a>
         <a href="#rdv">Prendre RDV</a>
     </nav>
+    </nav>
     <div class="container" id="accueil">
         <h1>Bienvenue dans un espace de bien-etre et d'ecoute</h1>
         <p>Sophrologue certifiee, et je vous invite à un voyage vers un mieux-etre physique et mental. A travers des techniques de sophrologie, de relaxation, de respiration et de visualisation, je vous aide à liberer les tensions et a retrouver une harmonie interieure.
@@ -60,17 +60,17 @@ Au cours de seances, j'accompagne avec bienveillance dans un cadre propice à l�
 N’hesitez pas à me contacter pour en savoir plus ou reserver une seance !
 
 Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès maintenant !.</p>
+</nav>
         <img src="relaxation.jpg" alt="Image de relaxation" width="80%">
     </div>
     <div class="container" id="services">
         <h2>Mes Services</h2>
-        <ul>
-            <li>Accompagnement energetique individuel (psychotherapie)</li>
-            <li>Relaxation et sophrologie</li>
-            <li>Gestion des emotions et du stress</li>
-            <li>Preparation aux examens</li>
-            <li>Preparation à l’accouchement</li>
-            <li>Troubles du sommeil</li>
+            <p>Accompagnement energetique individuel (psychotherapie)</p>
+            <p>Relaxation et sophrologie</p>
+            <p>Gestion des emotions et du stress</p>
+            <p>Preparation aux examens</p>
+            <p>Preparation à l’accouchement</p>
+            <p>Troubles du sommeil</p>
         </ul>
     </div>
     <div class="container" id="contact">
